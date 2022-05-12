@@ -5,5 +5,7 @@ public class test {
         System.out.println("newnewTest");
 
         System.out.println("master");
+
+        System.out.println("test");
     }
 }
