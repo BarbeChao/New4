@@ -9,5 +9,7 @@ public class test {
         System.out.println("test");
 
         System.out.println("xxx");
+
+        System.out.println("yyyy");
     }
 }
